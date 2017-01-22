@@ -7,5 +7,8 @@ categories = [
 ]
 tags = ["blog", "me"]
 type = "post"
+featured="pic.png"
+featuredpath=""
+featuredalt=""
 +++
 Hello world!

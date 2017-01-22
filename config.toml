@@ -42,7 +42,7 @@ disqusShortname = "mtechnic-me"
     # customJS             = ["default", "/path/to/file"]
 
     # Loading min files for exampleSite
-    customCSS            = ["/css/main.min.css", "/css/font-awesome.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
+    customCSS            = ["/css/main.min.css", "/css/main.css"]
     customJS             = ["/js/main.min.js"]
 
 # parms.intro will appear on the sidebar
@@ -81,7 +81,7 @@ disqusShortname = "mtechnic-me"
 
 [[menu.main]]
     name = "Projects"
-    url = "/projects"
+    url = "/project"
     identifier = "fa fa-pied-piper-pp"
     weight = 2
 
@@ -90,12 +90,17 @@ disqusShortname = "mtechnic-me"
     url = "/categories"
     identifier = "fa fa-sitemap"
     weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    identifier = "fa fa-tags"
+    weight = 4
 
 [[menu.main]]
     name = "About"
     url = "/about"
     identifier = "fa fa-user-circle"
-    weight = 4
+    weight = 5
 
 
 # Insert your username and the icon will apear on the page as long as
