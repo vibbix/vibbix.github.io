@@ -24,7 +24,7 @@ env:
   - GIT_DEPLOY_EMAIL=mark@mtechnic.me # replace by your email
 branches:
   only:
-    - sources # replace by master for Project Pages
+    - source # replace by master for Project Pages
 install:
   - rm -rf out || exit 0 # cleanup previous run
 after_success:
