@@ -10,9 +10,17 @@
     {{ .Params.description }}
   </div>
   <div class="mdl-card__actions mdl-card--border">
+    {{if isset .Params "playurl"}}
+    <!-- Accent-colored raised button with ripple -->
+      <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" href="{{.Params.playurl}}">
+        Get on Google Play
+      </a>
+    &nbsp;
+    {{end}}
     <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ .Permalink }}">
       Read more →
     </a>
   </div>
 </div>
 </article>
+<br>

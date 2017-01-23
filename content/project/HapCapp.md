@@ -8,7 +8,7 @@ categories = [
 tags = ["project", "website", "golang", "html", "javascript", "knockoutjs"]
 type = "project"
 featured="Hapcapp.png"
-featuredpath="../../pics"
+featuredpath="/pics"
 featuredalt="A screenshot"
 +++ 
 HapCapp is a proof-of-concept social network for social activism. Utilizing OAuth social logins for a streamlined user 

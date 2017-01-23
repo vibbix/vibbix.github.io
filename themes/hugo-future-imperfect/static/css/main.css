@@ -3536,3 +3536,6 @@ background: linear-gradient(to left, #6190E8 , #A7BFE8); /* W3C, IE 10+/ Edge, F
         width: 100%;
     }
 }
+.mdl-button{
+	color: white;
+}

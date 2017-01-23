@@ -8,6 +8,6 @@ categories = [
 tags = ["project", "python", "golang", "postgres", "access"]
 type = "project"
 featured="matchp.png"
-featuredpath="../../pics"
+featuredpath="/pics"
 featuredalt=""
 +++

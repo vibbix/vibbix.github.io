@@ -1,0 +1,3 @@
+{{ $postgitinfo := (index $.Site.Data.postgitinfo .Slug ) }}
+{{ (print "<!-- LATEST GIT UPDATE: " $postgitinfo " -->") | safeHTML }}
+{{ "<!-- LEAVING partial gitinfo.html -->" | safeHTML }}

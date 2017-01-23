@@ -5,9 +5,8 @@
         {{ $.Scratch.Set "structType" "page" }}
         {{ partial "img-path" . }}
         {{ $path := $.Scratch.Get "path" }}
-
-        <a href="{{ .Permalink }}" class="image featured">
-            <img src="{{ $path }}/{{ .Params.featured }}" alt="{{ .Params.featuredalt }}" />
+        <a href="{{ $path}}/{{.Params.featured}}" alt="{{ .Params.featuredalt }}" class="image featured" data-lightbox="{{.Params.title}}">
+           <img src="{{ $path }}/{{ .Params.featured }}" alt="{{ .Params.featuredalt }}" />
         </a>
     {{ end }}
 {{ end }}
