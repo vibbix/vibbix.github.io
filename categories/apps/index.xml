@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on ///Mtechnic</title>
+    <link>https://mtechnic.me/categories/apps/index.xml</link>
+    <description>Recent content in Apps on ///Mtechnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://mtechnic.me/categories/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BallPit Calculator</title>
+      <link>https://mtechnic.me/project/BallPitCalc/</link>
+      <pubDate>Fri, 20 Jan 2017 09:38:00 -0500</pubDate>
+      
+      <guid>https://mtechnic.me/project/BallPitCalc/</guid>
+      <description>&lt;p&gt;this is a pretty cool project&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.vibbix.ballroom&amp;amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;
+You can download it and stuff&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
