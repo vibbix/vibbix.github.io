@@ -14,7 +14,10 @@
       <pubDate>Fri, 20 Jan 2017 09:38:00 -0500</pubDate>
       
       <guid>https://mtechnic.me/blog/helloworld/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;
+      <description>&lt;p&gt;Hello world! This is my new blog. It&amp;rsquo;s still a work-in-progress. There are a ton of changes I have to make to the
+theme, including fixing that nasty flexbox categories/tags misalignment in the CSS, tidying up the projects page,
+and documenting my work. I&amp;rsquo;m going to try to keep the site updated often. I also have a custom theme in the works thats
+much more ａｅｓｔｈｅｔｉｃ.&lt;/p&gt;
 </description>
     </item>
     
