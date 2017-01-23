@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "///Mtechnic"
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "out"
 canonifyURLs = true
 [indexes]
   category = "categories"

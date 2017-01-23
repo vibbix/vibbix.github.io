@@ -1,0 +1,9 @@
+language: generic # don't install any environment
+
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: openssl aes-256-cbc -K $encrypted_261cf4f450f1_key -iv $encrypted_261cf4f450f1_iv -in deploy_key.enc -out deploy_key -d
+  - COMMIT_AUTHOR_EMAIL: "mark@mtechnic.me"
+
+
