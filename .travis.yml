@@ -10,6 +10,7 @@ install:
  - SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
  - git remote set-url origin $SSH_REPO
  - git remote -v
+ - rm -rf out || exit 0 # cleanup previous run
 script: 
     - go get github.com/spf13/hugo
     - bash ./compile.sh
@@ -26,8 +27,6 @@ env:
 branches:
   only:
     - source # replace by master for Project Pages
-install:
-  - rm -rf out || exit 0 # cleanup previous run
 after_success:
   - cp .travis.yml out # all branches need this file
   - bash deploy.sh # run the deploy script
