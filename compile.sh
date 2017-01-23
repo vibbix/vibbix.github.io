@@ -1,1 +1,1 @@
-hugo -t hugo-future-imperfect
+hugo -t hugo-future-imperfect -b https://mtechnic.me/
