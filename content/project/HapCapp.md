@@ -14,4 +14,4 @@ featuredalt="A screenshot"
 HapCapp is a proof-of-concept social network for social activism. Utilizing OAuth social logins for a streamlined user 
 experience, the site helps network people in the community together for projects and local events.
 
-{{% video src="../../vids/HapCapp" poster="../../pics/Hapcapp.png"}}
+{{% video src="../../vids/HapCapp" poster="../../pics/Hapcapp.png" %}}

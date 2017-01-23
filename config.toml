@@ -7,7 +7,7 @@ canonifyURLs = true
 [indexes]
   category = "categories"
   tag = "tags"
-baseurl = "http://mtechnic.me/"
+baseURL = "https://mtechnic.me/"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
