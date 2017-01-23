@@ -1,5 +1,11 @@
-language: generic # don't install any environment
+language: go
 
+install: 
+ - export GOPATH=$HOME/go
+ - go get -v github.com/spf13/hugo
+ - export PATH=$PATH:$GOPATH/bin
+ - chmod +x deploy.sh
+ - chmod +x compile.sh
 script: bash ./deploy.sh
 env:
   global:
