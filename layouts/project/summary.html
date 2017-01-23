@@ -1,11 +1,18 @@
 <article class="project">
-    <header>
-    <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
-    <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words </div>
-    </header>
+<div class="project-card-wide mdl-card mdl-shadow--2dp">
+<div class="mdl-card__title" style="background: url('{{ .Params.featuredpath }}/{{ .Params.featured }}') center / cover; ">
+    <h1 class="project-card__title-text project-meta">{{ .Title}}<br>
+        {{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words 
+    </h1>
+</div>
 
+  <div class="mdl-card__supporting-text project-meta">
     {{ .Summary }}
-<footer>
-<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
-</footer>
+  </div>
+  <div class="mdl-card__actions mdl-card--border">
+    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="{{ .Permalink }}">
+      Read more →
+    </a>
+  </div>
+</div>
 </article>

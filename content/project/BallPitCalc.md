@@ -1,6 +1,5 @@
 +++
-name = "BallPitCalc"
-title = "BallPitCalc"
+title = "BallPit Calculator"
 date = "2017-01-20T09:38:00-05:00"
 categories = [
     "Apps"
