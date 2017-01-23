@@ -53,9 +53,9 @@
         <!-- If the value "default" is passed into the param then we will first
              load the standard css files associated with the theme -->
         {{ if or (in ($.Scratch.Get "cssFiles") "default") (eq ($.Scratch.Get "cssFiles") false) }}
-            <link rel="stylesheet" href="./material.min.css">
-            <script src="./material.min.js"></script>
-            <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> 
+            <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+            <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-deep_purple.min.css" />
+            <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
             <link rel="stylesheet" href="/css/google-font.css" />
             <link rel="stylesheet" href="/css/font-awesome.min.css" />
             <link rel="stylesheet" href="/css/main.css" />

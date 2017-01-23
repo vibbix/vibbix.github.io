@@ -6,6 +6,7 @@ publishDir = "public"
 canonifyURLs = true
 [indexes]
   category = "categories"
+  tag = "tags"
 baseurl = "http://mtechnic.me/"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
@@ -75,30 +76,30 @@ disqusShortname = "mtechnic-me"
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "/blog/"
     identifier = "fa fa-newspaper-o"
     weight = 1
 
 [[menu.main]]
     name = "Projects"
-    url = "/project"
+    url = "/project/"
     identifier = "fa fa-pied-piper-pp"
     weight = 2
 
 [[menu.main]]
     name = "Categories"
-    url = "/categories"
+    url = "/categories/"
     identifier = "fa fa-sitemap"
     weight = 3
 [[menu.main]]
     name = "Tags"
-    url = "/tags"
+    url = "/tags/"
     identifier = "fa fa-tags"
     weight = 4
 
 [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/about/"
     identifier = "fa fa-user-circle"
     weight = 5
 

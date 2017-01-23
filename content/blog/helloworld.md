@@ -8,7 +8,9 @@ categories = [
 tags = ["blog", "me"]
 type = "post"
 featured="pic.png"
-featuredpath=""
+featuredpath="../.."
 featuredalt=""
+author = "Mark Beznos"
 +++
 Hello world!
+

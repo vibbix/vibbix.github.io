@@ -1,5 +1,6 @@
 +++
 title = "BallPit Calculator"
+description = "A calculator to find out just how many playpen balls can fit into a room. Inspired by the XKCD comic."
 date = "2017-01-20T09:38:00-05:00"
 categories = [
     "Apps"
