@@ -2,10 +2,11 @@ language: go
 
 install: 
  - export GOPATH=$HOME/go
- - go get -v github.com/spf13/hugo
+ - go get github.com/spf13/hugo
  - export PATH=$PATH:$GOPATH/bin
  - chmod +x deploy.sh
  - chmod +x compile.sh
+ - openssl aes-256-cbc -K $encrypted_261cf4f450f1_key -iv $encrypted_261cf4f450f1_iv -in deploy_key.enc -out deploy_key -d
 script: bash ./deploy.sh
 env:
   global:
