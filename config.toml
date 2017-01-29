@@ -15,6 +15,7 @@ disqusShortname = "mtechnic-me"
 googleAnalytics = "UA-90762825-1"
 enableGitInfo = true
 enableEmoji = true
+enablerobotsTXT = true
 config = "config.toml"
 
 [params]
