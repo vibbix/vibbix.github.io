@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>https://mtechnic.me/blog/ballroomv2/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mtechnic.me/project/RoboPages/</loc>
     <lastmod>2017-01-23T15:40:31-05:00</lastmod>
   </url>
@@ -39,8 +44,26 @@
   </url>
   
   <url>
+    <loc>https://mtechnic.me/tags/alpha/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mtechnic.me/tags/android/</loc>
-    <lastmod>2017-01-23T15:40:31-05:00</lastmod>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtechnic.me/categories/android/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtechnic.me/tags/announcement/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,25 +80,26 @@
   </url>
   
   <url>
+    <loc>https://mtechnic.me/tags/blog/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mtechnic.me/categories/blog/</loc>
     <lastmod>2017-01-28T23:28:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mtechnic.me/tags/blog/</loc>
-    <lastmod>2017-01-28T23:28:15-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mtechnic.me/blog/</loc>
-    <lastmod>2017-01-28T23:28:15-05:00</lastmod>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mtechnic.me/categories/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,7 +117,7 @@
   
   <url>
     <loc>https://mtechnic.me/tags/java/</loc>
-    <lastmod>2017-01-23T15:40:31-05:00</lastmod>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,6 +134,12 @@
   </url>
   
   <url>
+    <loc>https://mtechnic.me/tags/material/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mtechnic.me/tags/me/</loc>
     <lastmod>2017-01-28T23:28:15-05:00</lastmod>
     <priority>0</priority>
@@ -122,13 +152,19 @@
   </url>
   
   <url>
-    <loc>https://mtechnic.me/categories/project/</loc>
-    <lastmod>2017-01-23T15:40:31-05:00</lastmod>
+    <loc>https://mtechnic.me/tags/programming/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mtechnic.me/tags/project/</loc>
+    <lastmod>2017-01-23T15:40:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mtechnic.me/categories/project/</loc>
     <lastmod>2017-01-23T15:40:31-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -147,6 +183,7 @@
   
   <url>
     <loc>https://mtechnic.me/tags/</loc>
+    <lastmod>2017-02-23T02:39:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   

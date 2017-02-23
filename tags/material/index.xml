@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material on ///Mtechnic</title>
+    <link>https://mtechnic.me/tags/material/index.xml</link>
+    <description>Recent content in Material on ///Mtechnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://mtechnic.me/tags/material/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ballroom Calculator PreAlpha</title>
+      <link>https://mtechnic.me/blog/ballroomv2/</link>
+      <pubDate>Thu, 23 Feb 2017 02:23:00 -0500</pubDate>
+      
+      <guid>https://mtechnic.me/blog/ballroomv2/</guid>
+      <description>&lt;p&gt;For the past few weeks, I have been revitalizing my old Playpen Ballroom calculator. The apps objective was to help users find out just how
+many playpen balls could fit inside their room. While I still have a few minor kinks to work out, the Alpha is now available for download.
+To join the test you can either &lt;a href=&#34;https://play.google.com/apps/testing/com.vibbix.ballroom&#34;&gt;become a tester on the Google Play Store&lt;/a&gt; or get the code
+off of &lt;a href=&#34;https://github.com/vibbix/BallroomCalculator/&#34;&gt;Github&lt;/a&gt; and compile it yourself. Feedback and pull requests are always welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
