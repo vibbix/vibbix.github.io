@@ -13,4 +13,4 @@ playurl="https://play.google.com/store/apps/details?id=com.vibbix.ballroom&pcamp
 +++
 Have you ever wanted to find out just how many playpen balls will fit in a room? This app helps you find out!
 Simply input your rooms area, and the depth to which you want to fill it and you can find out precisly how many balls
-you need. Available now for free without ads on the Play Store.
+you need. Available now for free without ads on the Play Store. You can also [become a tester on the Google Play Store](https://play.google.com/apps/testing/com.vibbix.ballroom).
