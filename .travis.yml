@@ -1,0 +1,30 @@
+language: go
+
+install: 
+ - chmod +x deploy.sh
+ - chmod +x compile.sh
+ - openssl aes-256-cbc -K $encrypted_261cf4f450f1_key -iv $encrypted_261cf4f450f1_iv -in deploy_key.enc -out deploy_key -d
+ - chmod 600 deploy_key
+ - eval `ssh-agent -s`
+ - ssh-add deploy_key
+ - rm -rf out || exit 0 # cleanup previous run
+script: 
+    - go get github.com/spf13/hugo
+    - bash ./compile.sh
+    - bash ./deploy.sh
+env:
+  global:
+  - GIT_DEPLOY_DIR=out # this is the default output dir of Hugo
+  - GIT_DEPLOY_BRANCH=master # this is the target branch, replace by gh-pages for Project Pages
+  - GIT_DEPLOY_USERNAME="Mark Beznos"
+  - GIT_DEPLOY_EMAIL=mark@mtechnic.me # replace by your email
+  - GIT_DEPLOY_REPO=git@github.com:vibbix/vibbix.github.io.git
+#  - GOPATH=$HOME/go
+#  - GOBIN=$GOPATH/bin
+#  - PATH = $PATH:$GOBIN
+branches:
+  only:
+    - source # replace by master for Project Pages
+after_success:
+  - cp .travis.yml out # all branches need this file
+  - bash deploy.sh # run the deploy script
