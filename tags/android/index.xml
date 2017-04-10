@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on ///Mtechnic</title>
-    <link>https://mtechnic.me/tags/android/index.xml</link>
+    <link>https://mtechnic.me/tags/android/</link>
     <description>Recent content in Android on ///Mtechnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mtechnic.me/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2017 02:23:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mtechnic.me/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Ballroom Calculator PreAlpha</title>
@@ -14,23 +17,16 @@
       <pubDate>Thu, 23 Feb 2017 02:23:00 -0500</pubDate>
       
       <guid>https://mtechnic.me/blog/ballroomv2/</guid>
-      <description>&lt;p&gt;For the past few weeks, I have been revitalizing my old Playpen Ballroom calculator. The apps objective was to help users find out just how
-many playpen balls could fit inside their room. While I still have a few minor kinks to work out, the Alpha is now available for download.
-To join the test you can either &lt;a href=&#34;https://play.google.com/apps/testing/com.vibbix.ballroom&#34;&gt;become a tester on the Google Play Store&lt;/a&gt; or get the code
-off of &lt;a href=&#34;https://github.com/vibbix/BallroomCalculator/&#34;&gt;Github&lt;/a&gt; and compile it yourself. Feedback and pull requests are always welcome!&lt;/p&gt;
-</description>
+      <description>For the past few weeks, I have been revitalizing my old Playpen Ballroom calculator. The apps objective was to help users find out just how many playpen balls could fit inside their room. While I still have a few minor kinks to work out, the Alpha is now available for download. To join the test you can either become a tester on the Google Play Store or get the code off of Github and compile it yourself.</description>
     </item>
     
     <item>
       <title>BallPit Calculator</title>
-      <link>https://mtechnic.me/project/BallPitCalc/</link>
+      <link>https://mtechnic.me/project/ballpitcalc/</link>
       <pubDate>Fri, 20 Jan 2017 09:38:00 -0500</pubDate>
       
-      <guid>https://mtechnic.me/project/BallPitCalc/</guid>
-      <description>&lt;p&gt;Have you ever wanted to find out just how many playpen balls will fit in a room? This app helps you find out!
-Simply input your rooms area, and the depth to which you want to fill it and you can find out precisly how many balls
-you need. Available now for free without ads on the Play Store. You can also &lt;a href=&#34;https://play.google.com/apps/testing/com.vibbix.ballroom&#34;&gt;become a tester on the Google Play Store&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://mtechnic.me/project/ballpitcalc/</guid>
+      <description>Have you ever wanted to find out just how many playpen balls will fit in a room? This app helps you find out! Simply input your rooms area, and the depth to which you want to fill it and you can find out precisly how many balls you need. Available now for free without ads on the Play Store. You can also become a tester on the Google Play Store.</description>
     </item>
     
   </channel>

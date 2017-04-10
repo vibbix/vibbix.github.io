@@ -2,56 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on ///Mtechnic</title>
-    <link>https://mtechnic.me/project/index.xml</link>
+    <link>https://mtechnic.me/project/</link>
     <description>Recent content in Projects on ///Mtechnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jan 2017 00:13:00 -0500</lastBuildDate>
-    <atom:link href="https://mtechnic.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mtechnic.me/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>RoboPages</title>
-      <link>https://mtechnic.me/project/RoboPages/</link>
+      <link>https://mtechnic.me/project/robopages/</link>
       <pubDate>Mon, 23 Jan 2017 00:13:00 -0500</pubDate>
       
-      <guid>https://mtechnic.me/project/RoboPages/</guid>
+      <guid>https://mtechnic.me/project/robopages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HapCapp</title>
-      <link>https://mtechnic.me/project/HapCapp/</link>
+      <link>https://mtechnic.me/project/hapcapp/</link>
       <pubDate>Sun, 22 Jan 2017 20:38:00 -0500</pubDate>
       
-      <guid>https://mtechnic.me/project/HapCapp/</guid>
-      <description>&lt;p&gt;HapCapp is a proof-of-concept social network for social activism. Utilizing OAuth social logins for a streamlined user
-experience, the site helps network people in the community together for projects and local events.&lt;/p&gt;
-
-
-&lt;video width=&#34;480&#34; controls  poster=&#34;../../pics/Hapcapp.png&#34; &gt;
-  
-  &lt;source
-    src=&#34;../../vids/HapCapp.webm&#34;
-    type=&#34;video/webm&#34;&gt;
-  &lt;source
-    src=&#34;../../vids/HapCapp.mp4&#34;
-    type=&#34;video/mp4&#34;&gt;
-    
-  Your browser doesn&#39;t support HTML5 video tag.
-&lt;/video&gt;
-</description>
+      <guid>https://mtechnic.me/project/hapcapp/</guid>
+      <description>HapCapp is a proof-of-concept social network for social activism. Utilizing OAuth social logins for a streamlined user experience, the site helps network people in the community together for projects and local events.
+Your browser doesn&#39;t support HTML5 video tag.  </description>
     </item>
     
     <item>
       <title>BallPit Calculator</title>
-      <link>https://mtechnic.me/project/BallPitCalc/</link>
+      <link>https://mtechnic.me/project/ballpitcalc/</link>
       <pubDate>Fri, 20 Jan 2017 09:38:00 -0500</pubDate>
       
-      <guid>https://mtechnic.me/project/BallPitCalc/</guid>
-      <description>&lt;p&gt;Have you ever wanted to find out just how many playpen balls will fit in a room? This app helps you find out!
-Simply input your rooms area, and the depth to which you want to fill it and you can find out precisly how many balls
-you need. Available now for free without ads on the Play Store. You can also &lt;a href=&#34;https://play.google.com/apps/testing/com.vibbix.ballroom&#34;&gt;become a tester on the Google Play Store&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://mtechnic.me/project/ballpitcalc/</guid>
+      <description>Have you ever wanted to find out just how many playpen balls will fit in a room? This app helps you find out! Simply input your rooms area, and the depth to which you want to fill it and you can find out precisly how many balls you need. Available now for free without ads on the Play Store. You can also become a tester on the Google Play Store.</description>
     </item>
     
   </channel>

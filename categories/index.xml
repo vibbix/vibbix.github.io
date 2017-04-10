@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ///Mtechnic</title>
-    <link>https://mtechnic.me/categories/index.xml</link>
+    <link>https://mtechnic.me/categories/</link>
     <description>Recent content in Categories on ///Mtechnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2017 02:23:00 -0500</lastBuildDate>
-    <atom:link href="https://mtechnic.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mtechnic.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Android</title>

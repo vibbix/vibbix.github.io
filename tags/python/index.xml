@@ -2,18 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on ///Mtechnic</title>
-    <link>https://mtechnic.me/tags/python/index.xml</link>
+    <link>https://mtechnic.me/tags/python/</link>
     <description>Recent content in Python on ///Mtechnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mtechnic.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2017 00:13:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mtechnic.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>RoboPages</title>
-      <link>https://mtechnic.me/project/RoboPages/</link>
+      <link>https://mtechnic.me/project/robopages/</link>
       <pubDate>Mon, 23 Jan 2017 00:13:00 -0500</pubDate>
       
-      <guid>https://mtechnic.me/project/RoboPages/</guid>
+      <guid>https://mtechnic.me/project/robopages/</guid>
       <description></description>
     </item>
     
